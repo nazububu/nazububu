@@ -11,4 +11,4 @@
 - Frontend: JS, Bootstrap
 - DB: MySQL, sqlite
 - Automation: Ansible
-- Earlier: Assembler, C++, C#
+- Earlier: Assembler
