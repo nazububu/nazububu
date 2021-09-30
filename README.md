@@ -7,7 +7,7 @@
 
 - Web-dev: PHP, JS
 - Learning: Python, Java
-- Backend: PHP, Laravel / Lumen
+- Backend: PHP, Laravel / Lumen, Symfony
 - Frontend: JS, Bootstrap
 - DB: MySQL, sqlite
 - Automation: Ansible
