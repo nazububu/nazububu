@@ -13,3 +13,5 @@
 - DB: MySQL, sqlite
 - Automation: Ansible
 - Earlier: Assembler
+
+<iframe src="https://send.monobank.ua/widget.html?jar=4m2i3AJnhtu8mA3BaiY4PH5XUkDtzd7s&sendId=88J9rG7RH6&type=lhp&textScheme=black&colorScheme=ukraine&shapeScheme=rounded&progressScheme=normal"></iframe>
