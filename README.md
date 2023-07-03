@@ -14,4 +14,10 @@
 - Automation: Ansible
 - Earlier: Assembler
 
-<iframe src="https://send.monobank.ua/widget.html?jar=4m2i3AJnhtu8mA3BaiY4PH5XUkDtzd7s&sendId=88J9rG7RH6&type=lhp&textScheme=black&colorScheme=ukraine&shapeScheme=rounded&progressScheme=normal"></iframe>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <iframe src="https://send.monobank.ua/widget.html?jar=4m2i3AJnhtu8mA3BaiY4PH5XUkDtzd7s&sendId=88J9rG7RH6&type=lhp&textScheme=black&colorScheme=ukraine&shapeScheme=rounded&progressScheme=normal"></iframe>
+    </div>
+</foreignObject>
+</svg>
